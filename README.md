@@ -7,3 +7,6 @@ The "Сайт доставки японской еды" is a website for japanes
 
 The "RaschetZP" is a emloyee wage calculator with a little database and todo list.
 "RaschetZP" является калькулятором сотрудников заработной платы с небольшой базой данных и списком задач.
+
+The "LibraryDatabase" is a database for a library that allows you to record the issuance and return of books.
+"LibraryDatabase" это база данных для библиотеки с возможностью учёта выдачи и возврата книг.
